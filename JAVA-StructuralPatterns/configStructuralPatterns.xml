@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<className>FileOutput</className>
+	<className>Linux</className>
+	<className>Java</className>
+	<coffee>AddMilk</coffee>
+	<coffee>BigCup</coffee>
+	<proxy>Picture</proxy>
+</config>
